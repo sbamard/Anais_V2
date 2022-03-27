@@ -184,7 +184,10 @@ input, select, textarea {
 
 			h1 {
 				font-size: 1.5em;
-				margin: 0 0 1em 0;
+				margin: 0 0 0 0;
+				text-align: center;
+				letter-spacing: 0em;
+				padding-left: 40px;
 			}
 
 		}
@@ -193,6 +196,8 @@ input, select, textarea {
 
 			h1 {
 				font-size: 1.5em;
+				text-align: center;
+				padding-left: 0px;
 			}
 
 		}
@@ -2831,7 +2836,7 @@ input, select, textarea {
 			color: inherit;
 			font-weight: 500;
 			letter-spacing: 0.35em;
-			margin: 2em 0 2.5em 0;
+			margin: 0 0 2.5em 0;
 			text-decoration: none;
 			display: inline-block;
 			font-size: 0.7em;
