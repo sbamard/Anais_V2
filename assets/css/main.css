@@ -3378,6 +3378,7 @@ input, select, textarea {
 		position: relative;
 		width: 100%;
 		  height: auto;
+		  padding-left: 20px;
 		}
 
 
@@ -3394,6 +3395,12 @@ input, select, textarea {
 				justify-content: center;
 			}
 
-		
+			.maPratique img{
+			  padding-left: 0px;
+			}
 
+		}
+
+		.image.main{
+			padding-top: 40px;
 		}
